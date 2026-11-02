@@ -1,4 +1,4 @@
-# Edwin Bermudez
+Edwin Bermudez
 
 DevOps engineer and cheminformatics specialist bridging scientific computing and production engineering.
 
