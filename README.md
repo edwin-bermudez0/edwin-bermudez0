@@ -1,9 +1,9 @@
-# Edwin Bermudez
+# Edwin
 
-**DevOps Engineer & Cheminformatics Specialist**
+*Code should enable science, not obstruct it.*
 
-Bridge between scientific research and production engineering. Architect and automate data pipelines for pharmaceutical R&D and chemical informatics workflows.
+Building bridges between research and production. Automating complex scientific workflows. Making sure that brilliant chemistry becomes brilliant software.
 
-**Areas**: Scientific computing, cheminformatics pipelines, MLOps, containerization, automation, data integrity in regulated environments
+Scientific computing | DevOps | MLOps | Cheminformatics
 
-**Skills**: Go, TypeScript, Bash, Docker, Kubernetes, CI/CD, Python, SQL, AWS
+Go · TypeScript · Python · Kubernetes · Automation
