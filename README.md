@@ -1,9 +1,7 @@
 # I am Edwin Bermudez
 
-**Senior Software Engineer & Cheminformatics Specialist**
-
 ## About
-Experienced software engineer passionate about building scalable, maintainable systems. Specializing in Scientific & Enterprise Systems.
+Passionate about building scalable, maintainable systems. Specializing in Scientific & Enterprise Systems.
 
 ## Technical Expertise
 ```
