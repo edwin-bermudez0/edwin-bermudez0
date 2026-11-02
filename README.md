@@ -1,26 +1,24 @@
-## Edwin Bermudez
+I am Edwin Bermudez
 
-**Computational Chemistry & ML**
+**Computational Chemistry & Molecular ML Engineer**
 
-### Molecular ML Applications
+Applying machine learning to accelerate drug discovery and chemical research through advanced computational methods.
 
-Molecules are just graphs. By treating chemical compounds as graph structures, we unlock powerful ML capabilities.
+**Solutions Developed:**
 
-**Implemented Solutions:**
+**Molecular Property Prediction**
+- Graph neural networks for activity prediction
+- 89% accuracy on test datasets
+- 60% reduction in wet lab screening requirements
 
-1. **Molecular Property Prediction**
-   - Graph neural networks for activity prediction
-   - 89% accuracy on held-out test set
-   - Reduces wet lab screening by 60%
+**Virtual Drug Screening**
+- Scored 50,000 compounds in 2 hours
+- 12 promising candidates identified
+- 8 candidates validated in synthesis
 
-2. **Virtual Drug Screening**
-   - Scored 50,000 compounds in 2 hours
-   - Identified 12 promising candidates
-   - 8 validated in synthesis
+**Reaction Prediction**
+- Sequence-to-sequence models for reaction outcomes
+- Guides synthetic chemistry planning
+- Predicts reaction feasibility and selectivity
 
-3. **Reaction Prediction**
-   - Sequence-to-sequence models with attention
-   - Predicts reaction outcomes from reactants
-   - Guides synthetic chemistry planning
-
-**Belief:** ML accelerates scientific discovery when properly grounded in domain knowledge.
+Philosophy: ML accelerates scientific discovery when grounded in domain knowledge and chemistry principles.
