@@ -1,21 +1,9 @@
-# I am Edwin Bermudez
+# Edwin Bermudez
 
-## About
-Passionate about building scalable, maintainable systems. Specializing in Scientific & Enterprise Systems.
+**DevOps Engineer & Cheminformatics Specialist**
 
-## Technical Expertise
-```
-DevOps, MLOps, Kubernetes, Go, TypeScript, Bash, CI/CD, Scientific Computing
-```
+Bridge between scientific research and production engineering. Architect and automate data pipelines for pharmaceutical R&D and chemical informatics workflows.
 
-## What I Bring
-- Production-grade code quality
-- Scalable system architecture  
-- Mentorship & knowledge sharing
-- Continuous learning mindset
+**Areas**: Scientific computing, cheminformatics pipelines, MLOps, containerization, automation, data integrity in regulated environments
 
-## Let's Work Together
-📧 Reach out via [GitHub](https://github.com/edwin-bermudez0) or [LinkedIn](https://linkedin.com/in/edwin-bermudez0)
-
----
-*Engineering excellence, one commit at a time.*
+**Skills**: Go, TypeScript, Bash, Docker, Kubernetes, CI/CD, Python, SQL, AWS
